@@ -35,7 +35,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="second-slide home-image" src="resources/images/img2.jpg" alt="Second slide">
+                    <img class="second-slide home-image" src="resources/images/img1.jpg" alt="Second slide">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1></h1>
@@ -44,7 +44,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="third-slide home-image" src="resources/images/img3.jpg" alt="Third slide">
+                    <img class="third-slide home-image" src="resources/images/img2.jpg" alt="Third slide">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1></h1>
@@ -53,7 +53,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="forth-slide home-image " src="resources/images/img4.jpg" alt="Forth slide"height="2000px" width="1500px">
+                    <img class="forth-slide home-image " src="resources/images/img3.jpg" alt="Forth slide"height="2000px" width="1500px">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1></h1>
@@ -62,6 +62,15 @@
                     </div>
                 </div>
                  <div class="item">
+                    <img class="fifth-slide home-image" src="resources/images/img4.jpg" alt="Fifth slide">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1></h1>
+                            <p></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
                     <img class="fifth-slide home-image" src="resources/images/img5.jpg" alt="Fifth slide">
                     <div class="container">
                         <div class="carousel-caption">
