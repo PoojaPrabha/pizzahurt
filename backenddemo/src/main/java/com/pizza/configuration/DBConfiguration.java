@@ -33,11 +33,12 @@ public class DBConfiguration {
 	public DataSource dataSource() {
 	    BasicDataSource dataSource = new BasicDataSource();
 	    dataSource.setDriverClassName("org.h2.Driver");
-	    dataSource.setUrl("jdbc:h2:tcp://localhost/~/s180233");
+	    dataSource.setUrl("jdbc:h2:tcp://localhost/~/pizza");
 	    dataSource.setUsername("sa");
 	    dataSource.setPassword("");
 	    return dataSource;
 	}
+	
 	/*
 	 * <bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBuilder">
 	 * <property name="dataSource" ref="dataSource">

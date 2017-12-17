@@ -5,6 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
 <title>Insert title here</title>
 </head>
 <body>
@@ -18,10 +22,11 @@
                 <li data-target="#myCarousel" data-slide-to="1"></li>
                 <li data-target="#myCarousel" data-slide-to="2"></li>
                 <li data-target="#myCarousel" data-slide-to="3"></li>
+                <li data-target="#myCarousel" data-slide-to="4"></li>
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img class="first-slide home-image" src="resources/images/img1.jpg" alt="first slide" >
+                    <img class="first-slide home-image" src="resources/images/ast.jpg" alt="first slide" >
                     <div class="container">
                         <div class="carousel-caption">
                             <h1></h1>
@@ -57,7 +62,7 @@
                     </div>
                 </div>
                  <div class="item">
-                    <img class="fifth-slide home-image " src="resources/images/img5.jpg" alt="Fifth slide">
+                    <img class="fifth-slide home-image" src="resources/images/img5.jpg" alt="Fifth slide">
                     <div class="container">
                         <div class="carousel-caption">
                             <h1></h1>
